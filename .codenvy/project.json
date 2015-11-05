@@ -1,0 +1,1 @@
+{"builders":{"configs":{}},"mixinTypes":["contribution"],"runners":{"configs":{"system:/javascript/web/simple":{"ram":1000,"variables":{},"options":{}}},"default":"system:/javascript/web/simple"},"type":"BasicJS","attributes":{"framework":["BasicJS"],"contribute_branch":["master"],"contribute_mode":["contribute"],"language":["javascript"]}}

@@ -3,24 +3,24 @@
 *:before {
   margin: 0;
   padding: 0;
-  /* Removes padding behaviour on widths */
+  /* reset padding */
   -webkit-box-sizing: border-box;
      -moz-box-sizing: border-box;
           box-sizing: border-box;
 }
- 
-/* Attribute selector */
+
+/* spacing for bars */
 [class*='bar-'] {
   float: left;
   padding: 10px;
 }
- 
-/* Floats last ".bar-" to the right */
+
+/* float last element to the right */
 [class*='bar-']:last-of-type {
   padding-right: 10px;
   float: right;
 }
- 
+
 /* Clearfix */
 .frame:after {
   content: "";
@@ -28,7 +28,7 @@
   clear: both;
 }
 
-/* Main Widths */
+/* Standard Widths */
 .bar-1  {width: 100%;}
 .bar-2  {width: 50%;}
 .bar-3  {width: 33.33%;}

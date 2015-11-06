@@ -11,6 +11,7 @@
 
 /* spacing for bars */
 [class*='bar-'] {
+  position: relative;
   float: left;
   padding: 10px;
 }

@@ -14,3 +14,9 @@ Syntax:
   </div>
 </div> 
 ```
+
+To edit:
+
+Type `npm install`
+Edit candyBar.css as needed
+Run `grunt cssmin` to update candyBar.min.css

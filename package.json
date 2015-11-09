@@ -1,0 +1,32 @@
+{
+  "name": "candybar",
+  "version": "1.0.0",
+  "description": "Lightweight css grid system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skunkface/candyBar.git"
+  },
+  "keywords": [
+    "Lightweight",
+    "CSS",
+    "grid",
+    "system",
+    "bootstrap",
+    "skeleton",
+    "lemondade"
+  ],
+  "author": "Chris Miller",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skunkface/candyBar/issues"
+  },
+  "homepage": "https://github.com/skunkface/candyBar#readme",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-cssmin": "^0.14.0",
+  }
+}
